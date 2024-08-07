@@ -1,0 +1,97 @@
+Machine Learning Software Engineer
+Home Office in Holland, MI
+SpinDance, a leader in custom Internet of Things (IoT) software, is looking for a machine learning
+developer to join our growing team of engineers. As a Machine Learning Software Engineer, you will build
+machine learning models and deploy them across multiple domains (Cloud, Embedded, Mobile, and Web)
+in the rapidly expanding world of IoT. If you love using multiple languages in a variety of technical domains,
+you’ll love working at SpinDance.
+At SpinDance, we focus on developing solutions for startups, Fortune 500s, and everyone in between. As
+part of our engineering team, you’ll get to work on projects across a wide variety of industries. You’ll work
+with an experienced, friendly team of software engineers, architects and program managers to build a
+smarter connected world.
+What You’ll Do
+Use languages like Python, R, and C++ in combination with platforms like AWS, Azure, and GCP to
+develop and train machine learning models for a variety of IoT products: consumer, transportation,
+health care and industrial.
+Apply your understanding of software development in other domains, including Embedded,
+Mobile, and Cloud. Don’t worry if you don’t already have these skills, one of our core values is to
+mentor and learn!
+Learn to use IoT methodologies and protocols to build next-generation connected solutions.
+Use TDD, CI/CD and DevOps/MLOps methodologies to develop high-quality software.
+Use statistical processing techniques to create effective data sets for training models as well as
+data augmentation approaches to improve generalization.
+Use existing machine learning models and create new ones from scratch.
+Use frameworks like OpenCV to perform image processing tasks.
+Analyze training results and model performance to improve model accuracy.
+Design data collection processes and techniques to improve the efficiency of data set creation.
+Work on Agile software teams to collaborate with customers to build the right solution for their
+unique requirements, timelines and budgets.
+Support business development efforts by contributing to the preparation of quotes and proposals.
+Help SpinDance grow by being a thought leader inside and outside the organization.
+What We’re Looking For
+Have a degree in Computer Science, Software Engineering, Machine Learning, or equivalent
+professional industry experience. A strong sense of software craftsmanship is a plus. At this time
+we are unable to sponsor visas.
+E hello@spindance.com P 616.355.7000 x114
+150 East 8th Street,, Holland, Michigan 49423
+SpinDance.com
+Have 5+ years of experience developing software professionally, especially in the machine learning
+space. Don’t worry if you don’t know IoT, we’ll teach you that part, although some background in
+IoT is helpful.
+Proficiency with fundamental machine learning languages Python, R, and/or C++.
+Proficiency with machine learning frameworks such as Tensorflow, Keras, PyTorch, MxNet, and
+Caffe.
+Familiarity with MLOps practices including cloud or edge model deployment, data versioning, and
+model monitoring.
+Familiarity with cloud-based machine learning tools such as AWS SageMaker, Microsoft Azure
+Machine Learning, and Google AI Hub.
+Familiarity with creating and using REST APIs.
+Familiarity with scripting tools such as Jupyter Notebooks or Google Colaboratory.
+Experience with relational and NoSQL database technologies, such as MySQL, Postgresql, Redis,
+MongoDB, CosmoDB, etc is a plus.
+Experience with OpenCV and image processing is a plus.
+A desire to gain experience and mastery across multiple domains (Cloud, Embedded, Mobile, and
+Web).
+Someone who loves the culture of a small company and enjoys working on every part of the
+software development life cycle: requirements gathering, architecture, development, testing,
+deployment and support.
+A background or desire to work in an Agile DevOps environment.
+A desire to learn and share what you’ve learned through a variety of avenues.
+Strong interpersonal skills: teamwork is very important to us.
+A history of technical leadership is a plus. This could be project management, management, or
+functioning as a technical lead.
+Experience communicating to customer stakeholders and C-level executives is a plus.
+Being able to write a killer blog post is a plus.
+Why SpinDance?
+SpinDance is a 20-year old, profitable software company focused on craftsmanship and pragmatic
+solutions. Our team of around 50 includes people of all ages and walks of life, and who love waking up
+every day to solve all sorts of interesting problems.
+Here’s what we offer:
+A competitive salary.
+Work anywhere in the United States.
+A fun, caring team who holds each other accountable for results, and values a healthy work/life
+balance.
+Flexible hours and locations. As knowledge workers, we understand the need for balancing
+community and collaboration with deep focus. We use Jira, Pivotal Tracker, Google tools and Slack
+to stay connected, and we trust our team to work where they want, when they want.
+E hello@spindance.com P 616.355.7000 x114
+150 East 8th Street,, Holland, Michigan 49423
+SpinDance.com
+Standard 40 hour work weeks. We understand the best work comes from reasonable schedules
+sustained over months and years, not death marches. There are times where more work is
+expected, but in general we aim for 40 hour weeks.
+Great healthcare and dental insurance.
+Paid vacation and time off.
+401k with a matching contribution of 100% on the first 3% of your eligible earnings and an
+additional 50% on the next 2% of your eligible earnings.
+Ongoing professional development, including books, conferences and certifications.
+Interested? Let’s Talk.
+If you want to learn more, drop us an email at careers@spindance.com. Make sure to include the
+following:
+1. Your resume.
+2. Contact info, including your name, email address, and a good phone number to reach you at.
+3. Some sample code and/or a cover letter explaining why you’re interested in this position.
+We’ll get back to you within a week to continue the process.
+E hello@spindance.com P 616.355.7000 x114
+150 East 8th Street,, Holland, Michigan 49423
+SpinDance.com
