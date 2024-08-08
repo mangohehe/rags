@@ -1,47 +1,35 @@
-﻿Synopsys, Inc. is an American electronic design automation company headquartered in Sunnyvale, California, that focuses on silicon design and verification, silicon intellectual property and software security and quality. Synopsys supplies tools and services to the semiconductor design and manufacturing industry
-We are looking for a senior staff engineer and technical leader to design and develop a full stack data analytics and machine learning project. The ideal candidate will have a strong technical background and expertise in data analytics, machine learning, microservices architecture, containers, distributed systems, and API design, as well as strong technical leadership skills to guide junior team members on a regular basis.
+﻿Senior R&D Engineer, Data Scientist-AI/ML
+Synopsys, Inc. • Mountain View, CA • via Karkidi
+160K–240K a year
+Full-time
+Apply on Karkidi
+Job highlights
+Identified by Google from the original job post
+Qualifications
+Education and Experience: Requires Master’s/Ph.D. degree in Computer Science, Computer Engineering, Electrical/Electronic Engineering, or a related field and at least 2 years of experience performing Machine Learning or Deep Learning projects
+Responsibilities
+As a Senior R&D Engineer/Data Scientist-AI/ML, you will be part of a Machine Learning Center-of-Excellence group helping the rest of the teams in the division that build Electronic Design Automation (EDA) tools
+EDA problems are np-hard and are solved using a combination of optimization techniques and heuristics
+With the availability of the latest AI/ML techniques there is a unique opportunity to build EDA tools that will provide far greater optimality and orders of magnitude faster runtimes
+As part of the team, you will work with different product/engine teams to infuse ML into their products
+You will study the EDA product/engine for applicability of AI/ML techniques in collaboration with the product/engine owners
+Subsequently you would provide consulting help to the product team or proceed to build and implement the best-in-class Machine Learning based solutions that demonstrate the promised accuracy and performance improvements
+You will work closely with the product team to ensure its success with the customers
+Overall, you will be involved in developing state of the art solutions that lead to significant product differentiation
+You may author technical papers, sit on technical panels, and file patents on resulting innovations
+Job description
+As a Senior R&D Engineer/Data Scientist-AI/ML, you will be part of a Machine Learning Center-of-Excellence group helping the rest of the teams in the division that build Electronic Design Automation (EDA) tools. These EDA tools are highly sophisticated and enable design and implementation of multi-million transistor IC chips. EDA problems are np-hard and are solved using a combination of optimization techniques and heuristics. With the availability of the latest AI/ML techniques there is a unique opportunity to build EDA tools that will provide far greater optimality and orders of magnitude faster runtimes. As part of the team, you will work with different product/engine teams to infuse ML into their products.
 
+You will study the EDA product/engine for applicability of AI/ML techniques in collaboration with the product/engine owners. Subsequently you would provide consulting help to the product team or proceed to build and implement the best-in-class Machine Learning based solutions that demonstrate the promised accuracy and performance improvements. You will work closely with the product team to ensure its success with the customers. Overall, you will be involved in developing state of the art solutions that lead to significant product differentiation. You may author technical papers, sit on technical panels, and file patents on resulting innovations.
 
-Key Responsibilities
-* Translate marketing and technical requirements into enterprise grade, scalable, distributed systems architecture.
-* Drive, lead, spec and implement on-prem and cloud software and infrastructure to meet the requirements. Troubleshoot and debug.
-* This role may span multiple tiers such as data management, backend services, visualization, and presentation, as well as APIs for the infrastructure.
-* Collaborate with R&D teams across multiple business groups, and other cross-functional teams to align technical roadmaps and deployment strategy.
-* Provide substantial and broad-based technical leadership and technical direction, identify and research opportunities for technical innovation, and drive the definition and delivery of market-leading solutions.
-* Perform in project leadership roles, drive programs and business initiatives.
-* Determine methods and procedures on new assignments and projects. Offer new solutions or direction and encourage and motivate others to support new solution or direction. May advise senior management on specialized technical or business issues.
-Requirements
-* BS/MS EE/CS/CE with a minimum of 8-10+ years of experience developing large scale architectures and distributed systems.
-* Strong skills in software architecture, proficient in distributed systems and microservices architecture based design and implementation.
-* Proficiency in Python programming language, familiarity with other languages such as C/C++, Java, etc. highly desired.
-* Solid understanding of Kubernetes and containerized ecosystems (e.g., Docker, Singularity).
-* Experience in machine learning, ML model versioning and deployment, building ML Ops
-* Familiarity with storage solutions and leading technology vendors
-* Solid project management skills encompassing project planning, estimation, and execution.
-* Ability to work independently, and exceptional verbal/written communication, leadership, interpersonal, and teamwork skills are a must.
+Education and Experience: Requires Master’s/Ph.D. degree in Computer Science, Computer Engineering, Electrical/Electronic Engineering, or a related field and at least 2 years of experience performing Machine Learning or Deep Learning projects.
 
-
-
-
-
-
-Desired skills
-
-
-A significant overlap with the following skills is highly desired:
-* Data engineering tools such as Kafka, Spark, Dask, Hive, Airflow, NOSQL databases and in-memory databases such as Redis.
-* Knowledge of constructing observability stack using tools such as OpenTelemetry, ELK and LGTM.
-* Designing and deploying cloud native micro services application on Kubernetes both on-prem and public clouds
-* Experience working (configuring, deploying, managing, and monitoring) with cloud platforms – AWS, GCP, and/or Microsoft Azure – with a preference for experience in Azure.
-* Knowledge of software life-cycle management in CI / CD
-* Experience in building APIs and SDKs
-* Certifications are a plus: AWS Solutions Architect, Cloud Security Certification, OpenStack Certification
-
+Desired background:
+• Machine Learning/Deep learning: Solid foundation of ML/DL algorithms; Probability and Statistics; ML/DL frameworks (Scikit-learn, TensorFlow, PyTorch, Keras); Ability to curate data and extract relevant features
+• Software proficiency: Data structures and algorithms, Solid programming skills in C/C++, Python, Linux based development
+• EDA (Electronic Design Automation) (desirable but not necessary): EDA tool development, Electrical Circuit Design
+• Optimization techniques, other (desirable): Linear programming, dynamic programming, and non-linear optimization; signal-processing algorithms; numerical analysis
 
 Our Silicon Design & Verification business is all about building high-performance silicon chips—faster. We’re the world’s leading provider of solutions for designing and verifying advanced silicon chips. And we design the next-generation processes and models needed to manufacture those chips. We enable our customers to optimize chips for power, cost, and performance—eliminating months off their project schedules.
 
-
 At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
-
-
-Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.

@@ -1,35 +1,96 @@
-﻿Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+﻿Job highlights
+Identified by Google from the original job post
+Qualifications
+We are seeking a seasoned software developer who brings a robust background in contemporary software architectures and microservice development, with a strong preference for proficiency in Go Lang
+The ideal candidate will possess comprehensive knowledge of Kubernetes and cloud technologies
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field
+A minimum of 10 years of experience in software development, with at least 3 years in a tech lead role
+Deep understanding of distributed computing, CAP theorem, and system design tradeoffs
+Proven expertise in cloud computing services (AWS, Azure, GCP), container technologies (Docker, Kubernetes), and Infrastructure-as-Code (Terraform, Pulumi)
+Background working with CI/CD pipelines and familiarity with modern software delivery eco-system (GitHub Actions, Azure DevOps, Harness.io, GitLab CI, etc.)
+Excellent problem-solving, organizational, and leadership skills
+Strong communication abilities to effectively collaborate with internal teams and stakeholders
+Benefits
+An opportunity to be a part of a dynamic and innovative team committed to making a difference in the technology landscape
+Competitive compensation package, including benefits and flexible work arrangements
+A collaborative, inclusive, and diverse work environment where creativity and innovation are valued
+Continuous learning and professional development opportunities to grow your expertise within the industry
+Responsibilities
+As a Lead Platform Engineer at Synopsys, you will play a key role in transforming our R&D products through the adoption of advanced cloud, containerization, continuous integration and delivery (CI/CD), and AI technologies
+Your mission will be to democratize these technologies to streamline our EDA/Chip design processes, ensuring our products remain at the forefront of the industry
+Lead a team of platform engineers to innovate and implement state-of-the-art technologies within our product development lifecycle
+Design and develop scalable, modular platform solutions that promote reuse and are easily integrated into our diverse product suite
+Collaborate with cross-functional teams to understand their needs and incorporate user feedback into the platform's development
+Establish best practices for modern software architecture, including microservices, serverless computing, and API-first strategies
+Drive the strategy for containerization and orchestration using Docker, Kubernetes, or equivalent technologies
+Incorporate AI and machine learning capabilities into the platform to facilitate smarter workflows and predictive analytics
+Ensure the platform's infrastructure is robust, secure, and compliant with industry standards
+Job description
+50668BR
 
+CANADA - Ontario - Mississauga, USA - Texas - Plano
 
-We are seeking a highly skilled and experienced Lead/Staff AI Engineer to join our dynamic and innovative team. As a Staff AI Engineer, you will play a critical role in designing, developing, and deploying advanced AI and machine learning solutions. You will collaborate with cross-functional teams to drive AI initiatives and contribute to the development of cutting-edge technologies that enhance our products and services. This role requires understanding of generative AI algorithms, strong programming skills, and the ability to lead and mentor junior engineers.
+Job Description and Requirements
 
+Job Title: Lead Software Developer, AI Platform Engineering
 
+Location: Mississauga, ON, Canada & Plano, TX, USA
 
+About Synopsys:
+
+Synopsys is a global leader in electronic design automation and semiconductor IP, and we are dedicated to helping our clients innovate the electronics that are embedded in our daily lives. We are seeking a talented and driven Lead Platform Engineer to join our team in North America to enhance our R&D efforts by leveraging modern architectures, tools, and technologies.
+
+About the position:
+
+We are seeking a seasoned software developer who brings a robust background in contemporary software architectures and microservice development, with a strong preference for proficiency in Go Lang. The ideal candidate will possess comprehensive knowledge of Kubernetes and cloud technologies. Familiarity with modern CI/CD pipelines and the broader software delivery ecosystem will be considered an advantageous asset.
+
+Job Description:
+
+As a Lead Platform Engineer at Synopsys, you will play a key role in transforming our R&D products through the adoption of advanced cloud, containerization, continuous integration and delivery (CI/CD), and AI technologies. Your mission will be to democratize these technologies to streamline our EDA/Chip design processes, ensuring our products remain at the forefront of the industry.
 
 Key Responsibilities:
-* AI/ML Solution Development: Design, develop, and deploy AI and machine learning models and algorithms to solve complex business problems.
-* Technical Leadership: Provide technical leadership and mentorship to junior engineers and data scientists, guiding them in best practices and advanced techniques.
-* Research & Innovation: Stay up-to-date with the latest advancements in AI and machine learning technologies, and apply them to improve existing systems or develop new solutions.
-* Collaboration: Work closely with product managers, software engineers, and other stakeholders to define project requirements, create technical specifications, and ensure successful implementation of AI solutions.
-* Data Analysis & Preprocessing: Perform data analysis, data preprocessing, and feature engineering to prepare datasets for machine learning models.
-* Model Training & Evaluation: Train, validate, and fine-tune machine learning models, ensuring they meet performance and accuracy requirements.
-* Deployment & Monitoring: Deploy AI models into production environments, and monitor their performance, making adjustments as necessary to maintain optimal operation.
-* Documentation: Document AI models, algorithms, and methodologies to ensure reproducibility and knowledge sharing within the team.
-* Compliance & Ethics: Ensure AI solutions adhere to ethical guidelines, data privacy regulations, and industry standards.
-
+• Lead a team of platform engineers to innovate and implement state-of-the-art technologies within our product development lifecycle.
+• Design and develop scalable, modular platform solutions that promote reuse and are easily integrated into our diverse product suite.
+• Collaborate with cross-functional teams to understand their needs and incorporate user feedback into the platform's development.
+• Establish best practices for modern software architecture, including microservices, serverless computing, and API-first strategies.
+• Drive the strategy for containerization and orchestration using Docker, Kubernetes, or equivalent technologies.
+• Incorporate AI and machine learning capabilities into the platform to facilitate smarter workflows and predictive analytics.
+• Ensure the platform's infrastructure is robust, secure, and compliant with industry standards.
 
 Qualifications:
-* Education: Bachelor’s or Master’s degree in Computer Science, Data Science, Electrical Engineering, or a related field. PhD is a plus.
-* Experience: Minimum of 5 years of experience in AI and machine learning, with a proven track record of deploying AI solutions in a production environment.
-* Technical Skills:
-   * Strong proficiency in programming languages such as Python or C++.
-   * Very good understanding of data structures, algorithms and design patterns.
-   * Extensive experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).
-   * Strong understanding of statistical analysis, data mining, and data visualization techniques.
-   * Knowledge of cloud platforms (e.g., AWS, GCP, Azure) and containerization (e.g., Docker, Kubernetes).
-   * Familiarity with version control systems (e.g., Git) and software development methodologies (e.g., Agile, Scrum).
-* Soft Skills:
-   * Excellent problem-solving and analytical skills.
-   * Strong communication and interpersonal skills.
-   * Ability to work independently and as part of a team.
-   * Proven leadership and mentorship abilities.
+• Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+• A minimum of 10 years of experience in software development, with at least 3 years in a tech lead role.
+• Strong Development Experience in Go (highly preferred) and Python
+• Deep understanding of distributed computing, CAP theorem, and system design tradeoffs.
+• Proven expertise in cloud computing services (AWS, Azure, GCP), container technologies (Docker, Kubernetes), and Infrastructure-as-Code (Terraform, Pulumi)
+• Background working with CI/CD pipelines and familiarity with modern software delivery eco-system (GitHub Actions, Azure DevOps, Harness.io, GitLab CI, etc.).
+• Experience with AI/machine learning frameworks and tools is highly desirable.
+• Excellent problem-solving, organizational, and leadership skills.
+• Strong communication abilities to effectively collaborate with internal teams and stakeholders.
+• Linux Foundation certifications: CKAD, CKS, and/or CKA (highly preferred)
+
+What We Offer:
+• An opportunity to be a part of a dynamic and innovative team committed to making a difference in the technology landscape.
+• Competitive compensation package, including benefits and flexible work arrangements.
+• A collaborative, inclusive, and diverse work environment where creativity and innovation are valued.
+• Continuous learning and professional development opportunities to grow your expertise within the industry.
+
+Join Synopsys:
+
+If you are a visionary engineer looking to lead the way in platform engineering and make a significant impact in the semiconductor space, we encourage you to apply for this exciting opportunity in Mississauga (ON), Canada.
+
+How to Apply:
+
+Submit your resume and cover letter through our careers portal, detailing your experience and why you are the perfect fit for the Lead Platform Engineer role at Synopsys.
+
+Synopsys is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees
+
+Job Category
+
+Engineering
+
+Country
+
+Canada
+
+Job Subcategory

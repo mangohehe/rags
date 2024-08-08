@@ -1,24 +1,52 @@
-﻿Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The Gen AI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+﻿Job highlights
+Identified by Google from the original job post
+Qualifications
+Understanding of the mathematical foundations of statistics, machine learning, and analytics
+Experience with exploratory data scrutiny, statistical analysis, hypotheses testing, and model development
+Experience in building and evaluating machine learning models
+Fluency in SQL and Spark to write efficient codes at scale with large data
+Fluency in C++ and Python Programming, writing applications that scale with large data
+Proven experience of 2+ years in the relevant field
+MS or Bachelors degree in Statistics, Machine Learning, Operations Research, Computer Science or other quantitative fields
+MS or Bachelors degree in, Statistics, Machine Learning, Operations Research, Computer Science or other quantitative fields
+degree, a minimum of 2+ years of industry experience required and if Bachelors degree, a minimum of 4+ years of industry experience required)
+Understanding of underlying mathematical foundations of statistics, machine learning, optimization, and analytics
+Understanding of experimental design and investigation
+Experience with exploratory data scrutiny, statistical analysis, and testing, and model development
+Ability to use a language like Python or R to work efficiently at scale with large data sets
+Proficiency in languages and tools like SQL, Python, and Spark
+Responsibilities
+You will work with domain experts to identify the most efficient way to collect and process data to derive data insights and prescribe recommendations
+You will work with Machine Learning/Deep Learning engineers to develop models for Predictive and Prescriptive data analytics
+You will also play critical role in establishing a process of digital design causal inference which helps chip engineers in making data inspired conclusions
+Drive clarity and solve ambiguous, challenging problems using data-informed approaches
+Propose and own data insights (including modelling, coding, analytics, and experimentation) to derive data insight and facilitate outcomes
+Develop creative solutions and build prototypes to problems using algorithms based on machine learning, statistics, and optimization
+Perform time-series analyses, hypothesis testing, and causal analyses to statistically assess the relative impact and extract trends
+Job description
+As a part of Big Data Analytics/AI-ML team you will collaborate with a global team in defining and developing a high performance, productivity enhancing product. You will work with domain experts to identify the most efficient way to collect and process data to derive data insights and prescribe recommendations. You will work with Machine Learning/Deep Learning engineers to develop models for Predictive and Prescriptive data analytics. You will also play critical role in establishing a process of digital design causal inference which helps chip engineers in making data inspired conclusions.
 
-We are looking for an experienced, passionate, and self-driven individual who possesses both a broad technical strategy and the ability to tackle architectural and modernization challenges. As an Ideal candidate will help build enterprise Machine Learning platform. They will work with a team of enthusiastic and dynamic ML engineers and Data scientists in building a platform to help Synopsys R&D teams to experiment, train models and build Gen AI & ML products.
+What You'll Need
+• Understanding of the mathematical foundations of statistics, machine learning, and analytics.
+• Experience with exploratory data scrutiny, statistical analysis, hypotheses testing, and model development.
+• Experience in building and evaluating machine learning models.
+• Fluency in SQL and Spark to write efficient codes at scale with large data.
+• Fluency in C++ and Python Programming, writing applications that scale with large data.
+• Proven experience of 2+ years in the relevant field. MS or Bachelors degree in Statistics, Machine Learning, Operations Research, Computer Science or other quantitative fields.
 
-You will be responsible for:
-* Building AI Platform for Synopsys to orchestrate enterprise-wide Data pipelines, ML training, and inferencing servers.
-* Develop "AI App Store" eco system to enable R&D teams to host Gen AI applications in Cloud
-* Develop capabilities to ship Clou Native (Containerized) AI applications/AI systems to on-premises customers
-* Orchestrate GPU Scheduling from within Kubernetes eco-system (e.g. Nvidia GPU Operator, MIG, and so on)
-* Create reliable and cost-effective Hybrid cloud architecture using cutting edge technologies (E.g. Kubernetes Cluster Federation, Azure Arc and so on)
-Required Qualifications
-* BS/MS/PhD in Computer Science/Software Engineering or an equivalent degree
-* 10+ years of total experience building systems software, enterprise software applications, ML applications and microservices
-* Expertise and/or experience in following programming languages : Python, and Go
-* Design complex distributed systems (High-level and low-level systems design)
-* In-Depth Kubernetes knowledge: Be able to deploy Kubernetes on-prem, and working experience with managed Kubernetes services (AKS/EKS/GKE)
-* Strong systems knowledge in Linux Kernel, CGroups, namespaces, and Docker
-* Experience with at least one cloud provider (AWS/GCP/Azure)
-* Ability to solve complex problems using efficient algorithms
-* Experience with using RDBMS (PostgreSQL preferred) for storing and queuing large sets of data
-Nice to have:
-* Prior experience with AI/ML workflows and tools (PyTorch, ML Flow, AirFlow, …)
-* Experience prototyping, experimenting, and testing with large datasets, and analytic data flows in production
-* Strong fundamentals in Statistics, Machine Learning, and/or Deep Learning
+What You'll Do
+• Drive clarity and solve ambiguous, challenging problems using data-informed approaches. Propose and own data insights (including modelling, coding, analytics, and experimentation) to derive data insight and facilitate outcomes.
+• Develop creative solutions and build prototypes to problems using algorithms based on machine learning, statistics, and optimization
+• Perform time-series analyses, hypothesis testing, and causal analyses to statistically assess the relative impact and extract trends
+• Basic Qualifications
+• MS or Bachelors degree in, Statistics, Machine Learning, Operations Research, Computer Science or other quantitative fields. (If M.S./M.Tech. degree, a minimum of 2+ years of industry experience required and if Bachelors degree, a minimum of 4+ years of industry experience required)
+• Understanding of underlying mathematical foundations of statistics, machine learning, optimization, and analytics
+• Understanding of experimental design and investigation
+• Experience with exploratory data scrutiny, statistical analysis, and testing, and model development
+• Ability to use a language like Python or R to work efficiently at scale with large data sets
+• Proficiency in languages and tools like SQL, Python, and Spark
+
+Preferred Qualifications
+• 4+ years of industry experience working as a data scientist/Engineer or similar
+• Experience with causal inference techniques to evaluate the causal relationships with variables
+• Experience building machine learning models

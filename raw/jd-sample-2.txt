@@ -1,46 +1,22 @@
-﻿At Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high-performance silicon chips and software content. Join us to transform the future through continuous technological innovation.
-
-
-You Are:
-As a Senior AI Engineer, you are passionate about pushing the boundaries of artificial intelligence and machine learning. You have a strong foundation in AI algorithms and are experienced in deploying scalable AI solutions. Your analytical mindset allows you to solve complex problems efficiently, and you thrive in a collaborative environment where innovation is at the forefront. Your communication skills enable you to convey complex technical concepts to a diverse audience, ensuring alignment and understanding across teams. You are proactive, continually seeking to improve processes and outcomes, and your curiosity drives you to stay updated with the latest advancements in AI and machine learning.
-
-
-What You’ll Be Doing:
-* Designing and implementing state-of-the-art AI solutions to solve complex problems in various domains.
-* Collaborating with cross-functional teams to integrate AI models into production systems.
-* Conducting research and experiments to improve existing AI algorithms and develop new ones.
-* Analyzing large datasets to extract meaningful insights and inform AI model development.
-* Optimizing AI models for performance, scalability, and reliability.
-* Providing technical guidance and mentorship to junior engineers and team members.
-The Impact You Will Have:
-* Enhancing the performance and capabilities of Synopsys' AI-driven products and solutions.
-* Driving innovation in AI technologies that power various applications, from automotive to healthcare.
-* Contributing to the development of cutting-edge AI models that set industry standards.
-* Improving the efficiency and scalability of AI systems deployed across different platforms.
-* Enabling data-driven decision-making through advanced AI and machine learning techniques.
-* Fostering a culture of continuous improvement and innovation within the AI engineering team.
-What You’ll Need:
-* Minimum Masters degree or Bachelors with 2 years' experience
-* Strong proficiency in programming languages such as Python, C++, or Java.
-* Extensive experience with machine learning frameworks like TensorFlow, PyTorch, or Keras.
-* Deep understanding of AI algorithms, including neural networks, reinforcement learning, and natural language processing.
-* Experience with data preprocessing, feature engineering, and model evaluation techniques.
-* Familiarity with cloud platforms and tools for deploying AI models at scale.
-Who You Are:
-* Innovative thinker with a passion for AI and machine learning.
-* Excellent problem-solving skills and attention to detail.
-* Strong communicator, able to articulate complex ideas clearly and effectively.
-* Collaborative and team-oriented, with a proactive approach to work.
-* Adaptable and eager to learn new technologies and methodologies.
-
-
-The Team You’ll Be A Part Of:
-You will be part of a dynamic AI engineering team dedicated to developing innovative AI solutions that drive Synopsys' product portfolio. The team focuses on research, development, and deployment of AI models that address real-world challenges across various industries. Collaboration, creativity, and a commitment to excellence are the cornerstones of our team's success.
-
-
-Rewards and Benefits:
-We offer a comprehensive range of health, wellness, and financial benefits to cater to your needs. Our total rewards include both monetary and non-monetary offerings. Your recruiter will provide more details about the salary range and benefits during the hiring process.
-
-
-Inclusion and Diversity:
-Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.
+﻿Job highlights
+Identified by Google from the original job post
+Qualifications
+Solid understanding of software development and release process
+Excellent communication skills in all forms, written and verbal, formal and informal, across all levels both internal and external to the company
+Experience in EDA tool product and/or field engineering
+Clear communication skills, verbal and written; ability to produce design documents detailing product requirements.BS/MS/Ph.D. in EE, CS, CE, or related discipline and 10+ years of experience
+Benefits
+The base salary range across the U.S. for this role is between $197,000-$295,000
+In addition, this role may be eligible for an annual bonus, equity, and other discretionary bonuses
+Synopsys offers comprehensive health, wellness, and financial benefits as part of a competitive total rewards package
+The actual compensation will be based on several job-related factors, including location, skills, experience, and education
+Responsibilities
+In this role, you would be coordinating all aspects of our software release
+This includes planning the release, coordinating development and testing activities, deploying software to production, and monitoring the performance of software in production
+A successful candidate will work with stakeholders in R&D, PAE, FAE, and Tech Pubs to ensure all release goals are met
+Additional responsibilities of this role would include managing the continuous integration process for software development – a crucial component to boost the product team’s efficiency
+Key QualificationsAttention to detail and process is essential in ensuring releases ship on time with the defined functionality and fixes
+Working at a very detailed and collaborative level with R&D engineers, product engineers, field engineers, customers, and executives
+Detailed understanding of design flow and challenges, particularly the implementation phase
+Job description
+Job Description And RequirementsWe’re looking for a Machine Learning Principal Engineer to join the AI team.We are looking for an experienced release manager for Synopsys’ ML Center of Excellence to manage the release process for DSO.ai. In this role, you would be coordinating all aspects of our software release. This includes planning the release, coordinating development and testing activities, deploying software to production, and monitoring the performance of software in production. A successful candidate will work with stakeholders in R&D, PAE, FAE, and Tech Pubs to ensure all release goals are met.Additional responsibilities of this role would include managing the continuous integration process for software development – a crucial component to boost the product team’s efficiency.Key QualificationsAttention to detail and process is essential in ensuring releases ship on time with the defined functionality and fixes.Working at a very detailed and collaborative level with R&D engineers, product engineers, field engineers, customers, and executivesSolid understanding of software development and release processDetailed understanding of design flow and challenges, particularly the implementation phaseExcellent communication skills in all forms, written and verbal, formal and informal, across all levels both internal and external to the company.Preferred ExperienceDeep knowledge in developing and maintaining EDA design tool and chip design flows (logic and physical implementation, signoff and/or simulation tools)Experience with software development, release and support.Experience in EDA tool product and/or field engineering.Clear communication skills, verbal and written; ability to produce design documents detailing product requirements.BS/MS/Ph.D. in EE, CS, CE, or related discipline and 10+ years of experienceAt Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.The base salary range across the U.S. for this role is between $197,000-$295,000. In addition, this role may be eligible for an annual bonus, equity, and other discretionary bonuses. Synopsys offers comprehensive health, wellness, and financial benefits as part of a competitive total rewards package. The actual compensation will be based on several job-related factors, including location, skills, experience, and education. Your recruiter can share more specific details on the total rewards package upon request.Job CategoryEngineeringCountryUnited StatesJob SubcategoryMachine LearningHire TypeEmployeeBase Salary Range197000 - 295000#J-18808-Ljbffr
