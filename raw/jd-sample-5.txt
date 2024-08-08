@@ -1,0 +1,30 @@
+﻿Job Title: Manager for Platform Engineering
+Location: Hyderabad / Bangalore
+
+
+About Synopsys:
+Synopsys is a world leader in electronic design automation and semiconductor IP, committed to empowering clients to innovate the electronics that enrich our daily experiences. As we continue to advance in the realm of platform engineering and generative AI, we are looking for a Manager to lead our team in India.
+
+
+Position Overview:
+The Manager for Platform Engineering & Generative AI Platform will oversee the strategic development and execution of cutting-edge platform solutions that support our R&D products and generative AI applications. This role requires a dynamic leader who has a proven track record in software development, microservices, and leadership.
+
+
+Key Responsibilities:
+* Lead and mentor a team of high-performing Lead Platform Engineers
+* Drive innovation and implementation of advanced cloud technologies, containerization, CI/CD, and AI to streamline product development
+* Collaborate with cross-functional teams to align platform engineering strategies with business objectives and incorporate user feedback into platform development.
+* Establish and enforce best practices for software architecture, including microservices, serverless computing, and API-first strategies.
+* Strategize on containerization and orchestration, leveraging Docker, Kubernetes, or equivalent technologies.
+* Integrate AI and machine learning capabilities to enhance platform functionality and predictive analytics.
+* Ensure platform infrastructure is robust, secure, and meets industry standards.
+* Architect reliable and cost-effective hybrid cloud solutions.
+* 
+Qualifications:
+* Bachelor's or Master's degree in Computer Science, Engineering, or a related field;
+* A minimum of 15 years of experience in software development, including extensive leadership experience.
+* Expertise in distributed computing, CAP theorem, Kubernetes, cloud computing services (AWS, Azure, GCP), and Infrastructure-as-Code.
+* Experience with CI/CD pipelines, container technologies, and Linux systems.
+* Exceptional problem-solving, organizational, and leadership skills.
+* Excellent communication abilities to effectively collaborate with internal teams and stakeholders.
+* Background in AI/machine learning frameworks and workflows is a major plus.

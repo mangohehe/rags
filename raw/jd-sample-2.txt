@@ -1,0 +1,46 @@
+﻿At Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high-performance silicon chips and software content. Join us to transform the future through continuous technological innovation.
+
+
+You Are:
+As a Senior AI Engineer, you are passionate about pushing the boundaries of artificial intelligence and machine learning. You have a strong foundation in AI algorithms and are experienced in deploying scalable AI solutions. Your analytical mindset allows you to solve complex problems efficiently, and you thrive in a collaborative environment where innovation is at the forefront. Your communication skills enable you to convey complex technical concepts to a diverse audience, ensuring alignment and understanding across teams. You are proactive, continually seeking to improve processes and outcomes, and your curiosity drives you to stay updated with the latest advancements in AI and machine learning.
+
+
+What You’ll Be Doing:
+* Designing and implementing state-of-the-art AI solutions to solve complex problems in various domains.
+* Collaborating with cross-functional teams to integrate AI models into production systems.
+* Conducting research and experiments to improve existing AI algorithms and develop new ones.
+* Analyzing large datasets to extract meaningful insights and inform AI model development.
+* Optimizing AI models for performance, scalability, and reliability.
+* Providing technical guidance and mentorship to junior engineers and team members.
+The Impact You Will Have:
+* Enhancing the performance and capabilities of Synopsys' AI-driven products and solutions.
+* Driving innovation in AI technologies that power various applications, from automotive to healthcare.
+* Contributing to the development of cutting-edge AI models that set industry standards.
+* Improving the efficiency and scalability of AI systems deployed across different platforms.
+* Enabling data-driven decision-making through advanced AI and machine learning techniques.
+* Fostering a culture of continuous improvement and innovation within the AI engineering team.
+What You’ll Need:
+* Minimum Masters degree or Bachelors with 2 years' experience
+* Strong proficiency in programming languages such as Python, C++, or Java.
+* Extensive experience with machine learning frameworks like TensorFlow, PyTorch, or Keras.
+* Deep understanding of AI algorithms, including neural networks, reinforcement learning, and natural language processing.
+* Experience with data preprocessing, feature engineering, and model evaluation techniques.
+* Familiarity with cloud platforms and tools for deploying AI models at scale.
+Who You Are:
+* Innovative thinker with a passion for AI and machine learning.
+* Excellent problem-solving skills and attention to detail.
+* Strong communicator, able to articulate complex ideas clearly and effectively.
+* Collaborative and team-oriented, with a proactive approach to work.
+* Adaptable and eager to learn new technologies and methodologies.
+
+
+The Team You’ll Be A Part Of:
+You will be part of a dynamic AI engineering team dedicated to developing innovative AI solutions that drive Synopsys' product portfolio. The team focuses on research, development, and deployment of AI models that address real-world challenges across various industries. Collaboration, creativity, and a commitment to excellence are the cornerstones of our team's success.
+
+
+Rewards and Benefits:
+We offer a comprehensive range of health, wellness, and financial benefits to cater to your needs. Our total rewards include both monetary and non-monetary offerings. Your recruiter will provide more details about the salary range and benefits during the hiring process.
+
+
+Inclusion and Diversity:
+Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.

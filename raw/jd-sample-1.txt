@@ -1,0 +1,47 @@
+﻿Synopsys, Inc. is an American electronic design automation company headquartered in Sunnyvale, California, that focuses on silicon design and verification, silicon intellectual property and software security and quality. Synopsys supplies tools and services to the semiconductor design and manufacturing industry
+We are looking for a senior staff engineer and technical leader to design and develop a full stack data analytics and machine learning project. The ideal candidate will have a strong technical background and expertise in data analytics, machine learning, microservices architecture, containers, distributed systems, and API design, as well as strong technical leadership skills to guide junior team members on a regular basis.
+
+
+Key Responsibilities
+* Translate marketing and technical requirements into enterprise grade, scalable, distributed systems architecture.
+* Drive, lead, spec and implement on-prem and cloud software and infrastructure to meet the requirements. Troubleshoot and debug.
+* This role may span multiple tiers such as data management, backend services, visualization, and presentation, as well as APIs for the infrastructure.
+* Collaborate with R&D teams across multiple business groups, and other cross-functional teams to align technical roadmaps and deployment strategy.
+* Provide substantial and broad-based technical leadership and technical direction, identify and research opportunities for technical innovation, and drive the definition and delivery of market-leading solutions.
+* Perform in project leadership roles, drive programs and business initiatives.
+* Determine methods and procedures on new assignments and projects. Offer new solutions or direction and encourage and motivate others to support new solution or direction. May advise senior management on specialized technical or business issues.
+Requirements
+* BS/MS EE/CS/CE with a minimum of 8-10+ years of experience developing large scale architectures and distributed systems.
+* Strong skills in software architecture, proficient in distributed systems and microservices architecture based design and implementation.
+* Proficiency in Python programming language, familiarity with other languages such as C/C++, Java, etc. highly desired.
+* Solid understanding of Kubernetes and containerized ecosystems (e.g., Docker, Singularity).
+* Experience in machine learning, ML model versioning and deployment, building ML Ops
+* Familiarity with storage solutions and leading technology vendors
+* Solid project management skills encompassing project planning, estimation, and execution.
+* Ability to work independently, and exceptional verbal/written communication, leadership, interpersonal, and teamwork skills are a must.
+
+
+
+
+
+
+Desired skills
+
+
+A significant overlap with the following skills is highly desired:
+* Data engineering tools such as Kafka, Spark, Dask, Hive, Airflow, NOSQL databases and in-memory databases such as Redis.
+* Knowledge of constructing observability stack using tools such as OpenTelemetry, ELK and LGTM.
+* Designing and deploying cloud native micro services application on Kubernetes both on-prem and public clouds
+* Experience working (configuring, deploying, managing, and monitoring) with cloud platforms – AWS, GCP, and/or Microsoft Azure – with a preference for experience in Azure.
+* Knowledge of software life-cycle management in CI / CD
+* Experience in building APIs and SDKs
+* Certifications are a plus: AWS Solutions Architect, Cloud Security Certification, OpenStack Certification
+
+
+Our Silicon Design & Verification business is all about building high-performance silicon chips—faster. We’re the world’s leading provider of solutions for designing and verifying advanced silicon chips. And we design the next-generation processes and models needed to manufacture those chips. We enable our customers to optimize chips for power, cost, and performance—eliminating months off their project schedules.
+
+
+At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
+
+
+Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.

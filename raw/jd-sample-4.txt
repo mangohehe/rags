@@ -1,0 +1,35 @@
+﻿Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+
+
+We are seeking a highly skilled and experienced Lead/Staff AI Engineer to join our dynamic and innovative team. As a Staff AI Engineer, you will play a critical role in designing, developing, and deploying advanced AI and machine learning solutions. You will collaborate with cross-functional teams to drive AI initiatives and contribute to the development of cutting-edge technologies that enhance our products and services. This role requires understanding of generative AI algorithms, strong programming skills, and the ability to lead and mentor junior engineers.
+
+
+
+
+Key Responsibilities:
+* AI/ML Solution Development: Design, develop, and deploy AI and machine learning models and algorithms to solve complex business problems.
+* Technical Leadership: Provide technical leadership and mentorship to junior engineers and data scientists, guiding them in best practices and advanced techniques.
+* Research & Innovation: Stay up-to-date with the latest advancements in AI and machine learning technologies, and apply them to improve existing systems or develop new solutions.
+* Collaboration: Work closely with product managers, software engineers, and other stakeholders to define project requirements, create technical specifications, and ensure successful implementation of AI solutions.
+* Data Analysis & Preprocessing: Perform data analysis, data preprocessing, and feature engineering to prepare datasets for machine learning models.
+* Model Training & Evaluation: Train, validate, and fine-tune machine learning models, ensuring they meet performance and accuracy requirements.
+* Deployment & Monitoring: Deploy AI models into production environments, and monitor their performance, making adjustments as necessary to maintain optimal operation.
+* Documentation: Document AI models, algorithms, and methodologies to ensure reproducibility and knowledge sharing within the team.
+* Compliance & Ethics: Ensure AI solutions adhere to ethical guidelines, data privacy regulations, and industry standards.
+
+
+Qualifications:
+* Education: Bachelor’s or Master’s degree in Computer Science, Data Science, Electrical Engineering, or a related field. PhD is a plus.
+* Experience: Minimum of 5 years of experience in AI and machine learning, with a proven track record of deploying AI solutions in a production environment.
+* Technical Skills:
+   * Strong proficiency in programming languages such as Python or C++.
+   * Very good understanding of data structures, algorithms and design patterns.
+   * Extensive experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+   * Strong understanding of statistical analysis, data mining, and data visualization techniques.
+   * Knowledge of cloud platforms (e.g., AWS, GCP, Azure) and containerization (e.g., Docker, Kubernetes).
+   * Familiarity with version control systems (e.g., Git) and software development methodologies (e.g., Agile, Scrum).
+* Soft Skills:
+   * Excellent problem-solving and analytical skills.
+   * Strong communication and interpersonal skills.
+   * Ability to work independently and as part of a team.
+   * Proven leadership and mentorship abilities.
